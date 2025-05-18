@@ -1,0 +1,20 @@
+[
+    {
+        "order_code": "DH01",
+        "product_name": "sữa",
+        "price": "5000",
+        "quantity": "20"
+    },
+    {
+        "order_code": "DH02",
+        "product_name": "Bánh",
+        "price": "150000",
+        "quantity": "1"
+    },
+    {
+        "order_code": "DH3",
+        "product_name": "Trà sữa",
+        "price": "15000",
+        "quantity": "50"
+    }
+]

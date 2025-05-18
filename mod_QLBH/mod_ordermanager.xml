@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="4.0" client="site" method="upgrade">
+  <name>mod_ordermanager</name>
+  <author>Trần Tiến Phát, Huỳnh Nhật Thanh</author>
+  <title>Order Manager Module</title>
+  <description>Module quản lý đơn hàng: thêm, sửa, xóa, tìm kiếm.</description>
+  <files>
+    <filename module="mod_ordermanager">mod_ordermanager.php</filename>
+    <filename>helper.php</filename>
+    <folder>tmpl</folder>
+    <folder>media</folder>
+  </files>
+</extension>
